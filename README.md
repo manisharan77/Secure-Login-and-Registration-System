@@ -28,4 +28,4 @@ A simple, secure user authentication system built in Python for terminal use. Th
 2. Run the script in terminal:
   ```bash
   python Securelogin.py
--
+  exit

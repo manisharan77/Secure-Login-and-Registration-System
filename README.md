@@ -6,6 +6,5 @@ Login system with password hashing (SHA-256)
 Lock account after 3 failed login attempts
 Simulated user session after successful login
 Uses getpass for hidden password input
-In-memory storage (easy to extend to file/DB)
-
+In-memory storage (easy to extend to fil
 

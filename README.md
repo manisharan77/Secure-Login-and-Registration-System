@@ -28,4 +28,19 @@ A simple, secure user authentication system built in Python for terminal use. Th
 2. Run the script in terminal:
   ```bash
   python Securelogin.py
-  exit
+  ```
+---
+# 📂 File Structure
+  ```bash
+  Securelogin.py     # Main Python script
+```
+---
+# 📌 Notes
+- User data is stored in memory only. To make this persistent, extend it with file or database storage.
+- This is a beginner-friendly implementation focused on core authentication concepts.
+
+---
+# 🙋‍♂️ Author
+B Mani Sharan
+B.Tech – AI & Data Science
+Email: manisharanbommakanti77@gmail.com

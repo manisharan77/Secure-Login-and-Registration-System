@@ -44,12 +44,3 @@ A simple, secure user authentication system built in Python for terminal use. Th
 B Mani Sharan                                                                                                                                                       
 B.Tech – AI & Data Science                                                                                                                                          
 Email: manisharanbommakanti77@gmail.com
-
-
-
-rerfgdfggydxxtrddikjjhuj
-dedfgydggvb5rddfeeekjhbn
-teerttdxxfrrdrffxxftrdffkmm8okkkkkkknnnhgbbb
-kiikkkikkk89oolki8ioookki9ooikoiujjnbvgv nbghh
-uuyghjjuughjikjjnnikkjgjbv bhhjbvftvjgtfvbjijnnjj
-uubh7hb

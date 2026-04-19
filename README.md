@@ -57,6 +57,5 @@ gggfgg
 ggggfff
 hgffdd
 hggffff
-hggf
-hhgg
+hg
 hhgg

@@ -51,7 +51,6 @@ Email: manisharanbommakanti77@gmail.com
 manaisns
 msjjsjs
 dijdndnd
-jsjjsjdd
-mmddjjd
+jsjjsjd
 kdkndndd
 jjsjdjd

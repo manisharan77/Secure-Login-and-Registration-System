@@ -46,5 +46,3 @@ B.Tech – AI & Data Science
 Email: manisharanbommakanti77@gmail.com
 
 
-
-
